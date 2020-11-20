@@ -10,4 +10,6 @@
 
 3) **Submit:** via GitHub issues. Follow the instructions found in the [wiki](https://git.generalassemb.ly/SEIR-Margaret/class-recordings-and-info/blob/master/submitting-homework.md).
 
-4) **Prepare for the next day:** [Review your knowlege of Big O notaion](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation), [Take a look into Node.js & Express](https://expressjs.com/en/5x/api.html)
+4) **Prepare for the next day:** 
+- [Review your knowlege of Big O notaion](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation), [Take a look into Node.js & Express](https://expressjs.com/en/5x/api.html)
+- Make sure you have access to [myGa](https://my.generalassemb.ly/)
